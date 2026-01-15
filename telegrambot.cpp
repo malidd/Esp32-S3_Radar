@@ -1,7 +1,7 @@
 #include "telegrambot.h"
  WiFiClientSecure client;
-#define BOTtoken "8261260175:AAH3q1QsbFrwM3C1kvgz9AG8h-SbZE8AYEM"  // BotFather'dan aldığınız token
-#define CHAT_ID "8457155603"
+#define BOTtoken "********************************************"  // BotFather'dan aldığınız token
+#define CHAT_ID "**********"
 void mesaj(int yol_hiz_siniri,int hiz_kesin){
 
     // BU TANIM ŞARTTIR
@@ -27,5 +27,6 @@ void mesaj(int yol_hiz_siniri,int hiz_kesin){
         Serial.println("[TELEGRAM] HATA: Mesaj gönderilemedi.");
     }
 }
+
 
 
