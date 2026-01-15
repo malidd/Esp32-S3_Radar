@@ -12,9 +12,9 @@
 
 // Değişken tanımları main.cpp'de yapıldığı için buraya yazmıyoruz.
 
-const char DEVICE_LOGIN_NAME[] = "e8646cc9-6dfc-4755-89dd-7d20b442ea60";
-const char DEVICE_KEY[]        = "uXXQjtufEXLfT?nXKr4jFwXCH";
-const char tomtomApiKey[] = "p3k9XQ2x2u6CowMxGNe7mxsSGQUk96bW"; 
+const char DEVICE_LOGIN_NAME[] = "************************";
+const char DEVICE_KEY[]        = "********************************";
+const char tomtomApiKey[] = "*************************************"; 
 
 bool ceza=true ;
 bool kalibrasyon;
@@ -616,6 +616,7 @@ void hizSiniriSorgula() {
     Serial.println("TomTom: WiFi bağlantısı yok.");
     }
 }
+
 
 
 }*/
