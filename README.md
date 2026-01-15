@@ -54,3 +54,13 @@ ESP32-S3 kartınızı seçerek kodu yükleyin.
 Araç çalışır haldeyken ancak dururken (rölanti) bir kez kalibrasyon işlemini tetikleyerek ivmeölçer hassasiyetini sisteme tanıtın.
 
 Not: Bu proje akademik bir çalışma (tez) kapsamında geliştirilmiş olup, doğruluk önceliği (Accuracy > Completion) prensibiyle kodlanmıştır.
+
+
+Kütüphaneler/Versiyonları :
+tzapu/WiFiManager @ ^2.0.17
+	arduino-libraries/ArduinoIoTCloud @ ^2.8.0
+	mikalhart/TinyGPSPlus @ ^1.1.0
+	bblanchon/ArduinoJson @ ^7.4.2
+	arduino-libraries/Arduino_ConnectionHandler @ ^1.2.0
+	electroniccats/MPU6050@^1.4.4
+	witnessmenow/UniversalTelegramBot@^1.3.0
