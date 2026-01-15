@@ -1,3 +1,6 @@
+Not: Lisans bitirme tezi olup ,çalışmamın bir örneğinin burada bulunması için yüklemiş bulunmaktayım. 
+
+
 Akıllı Araç Hız Takip ve İhlal Bildirim Sistemi
 Bu proje, ESP32-S3 mikrodenetleyicisi üzerinde çalışan, sensör füzyonu (GPS, OBD-II ve IMU) kullanarak gerçek zamanlı araç hızı tespiti yapan ve TomTom API üzerinden yol hız sınırlarını sorgulayarak ihlal durumunda bildirim gönderen gömülü bir sistemdir.
 
